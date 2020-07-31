@@ -11,7 +11,7 @@
 <a href="https://t.me/hrithiks">
   <img align="left" alt="Hrithik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com//">
+<a href="https://www.instagram.com/hrithik._singh/">
   <img align="left" alt="Hrithik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100009368827172">

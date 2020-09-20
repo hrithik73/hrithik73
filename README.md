@@ -35,13 +35,13 @@
 
 ### A little more about me.
 ```
-javascript
 const Hrithik = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python","C"],
     askMeAbout: ["tech", "app dev","Theoretical Physics"],
     technologies: {
         mobileApp: ["React Native"],
+        web:["React"]
 
     funFact: "There are two ways to write error-free programs; only the third one works"
 };

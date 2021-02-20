@@ -41,7 +41,7 @@
 const Hrithik = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python","C"],
-    askMeAbout: ["tech", "app dev","Theoretical Physics"],
+    askMeAbout: ["React", "React Native"],
     technologies: {
         mobileApp: ["React Native"],
         web:["React"]

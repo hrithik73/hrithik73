@@ -39,7 +39,6 @@
 ### A little more about me.
 ```
 const Hrithik = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python","C"],
     askMeAbout: ["React", "React Native"],
     technologies: {

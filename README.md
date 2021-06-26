@@ -26,13 +26,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik73&theme=highcontrast&hide=Objective-C,Kotlin"/>
 </a>
 <a href="https://github.com/hrithik73">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithik73&show_icons=true&theme=highcontrast&line_height=27" alt="Hitesh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithik73&show_icons=true&theme=highcontrast&line_height=27" alt="Hrithik's github stats"/>
 </a>
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithik73&show_icons=true&theme=radical)\
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hrithik73&repo=Competitive-Programming&theme=radical&show_owner)](https://github.com/hrithik73/github-readme-stats)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hrithik73&repo=CoolGuides&theme=radical&show_owner)](https://github.com/hrithik73/github-readme-stats)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 

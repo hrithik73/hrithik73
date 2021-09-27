@@ -39,11 +39,11 @@
 ### A little more about me.
 ```
 const Hrithik = {
-    code: ["Javascript", "Python","C"],
+    code: ["Javascript", "Python","C","C++"],
     askMeAbout: ["React", "React Native"],
     technologies: {
         mobileApp: ["React Native"],
-        web:["React"]
+        web:["React","NextJs","Tailwind","NodeJS"]
 
     funFact: "There are two ways to write error-free programs; only the third one works"
 };

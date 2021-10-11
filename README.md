@@ -8,7 +8,7 @@
 <a href="https://twitter.com/_hrithiksingh">
   <img align="left" alt="Hrithik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/hrithik._singh/">
+<a href="https://www.instagram.com/hrithik73/">
   <img align="left" alt="Hrithik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://t.me/hrithiks">

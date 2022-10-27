@@ -5,9 +5,6 @@
 <a href="https://github.com/hrithik73">
   <img align="left" alt="Hrithik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://twitter.com/hrithik73_">
-  <img align="left" alt="Hrithik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.instagram.com/hrithik73_">
   <img align="left" alt="Hrithik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
